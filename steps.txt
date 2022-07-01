@@ -1,0 +1,17 @@
+Netflix app clone
+
+- GET TMBD API key (DONE)
+
+- Create React App (DONE)
+
+- setup firebase hosting (DONE)
+
+- get all the movies 
+
+- build the rows 
+
+- build the banner 
+
+- build the navbar
+
+- add trailer popups
