@@ -6,11 +6,11 @@ Netflix app clone
 
 - setup firebase hosting (DONE)
 
-- get all the movies 
+- get all the movies (DONE)
 
-- build the rows 
+- build the rows  (DONE)
 
-- build the banner 
+- build the banner (DONE)
 
 - build the navbar
 
