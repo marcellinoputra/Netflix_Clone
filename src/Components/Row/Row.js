@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import axios from '../../API/axios'
 import '../../Components/Row/Row.css'
 
-const base_url = 'https://image.tmdb.org/t/p/origiwnal/'
+const base_url = 'https://image.tmdb.org/t/p/original/'
 
 function Row({ title, fetchUrl, isLargeRow }) {
   const [movies, setMovies] = useState([])

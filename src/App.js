@@ -3,11 +3,12 @@ import './App.css'
 import requests from './API/request'
 import Row from './Components/Row/Row'
 import Banner from './Components/Banner/Banner'
+import Navbar from './Components/Navbar/Navbar'
 
 function App() {
   return (
     <div className="app">
-      {/* <Navbar /> */}
+      <Navbar />
       <Banner />
 
       <Row
